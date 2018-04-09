@@ -1,10 +1,8 @@
 exports.list = [
-  'ace-tee.com',
   'batalhatemfuturoautarquicas2017.pt',
   'bloodandco.com',
   'bnk48.com',
   'centraldacorrida.com.br',
-  'danyiom.com',
   'darwinapps.com',
   'estacaodaluz.com.br',
   'flowerwholesale.com',
@@ -24,9 +22,7 @@ exports.list = [
   'potomacfloralwholesale.com',
   'pressingprive.com',
   'sanjuanhoteis.com.br',
-  'selig.eu',
   'skinmotion.com',
-  'sonymusic.de',
   'weekendtrip.fr',
   'xpodisainshop.cl'
 ];
